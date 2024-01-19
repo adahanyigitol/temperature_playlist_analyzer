@@ -35,6 +35,34 @@ This Python program, dubbed **Spotify Weather-Based Music Recommender**, is your
    - Engage with bar graphs visualizing weather features, making it easy to grasp current conditions.
    - Explore your local weather map through folium, adding a spatial context to your weather experience.
    - Enjoy dynamically displayed song recommendations, providing a visual representation of your music journey.
+     
+## Progress Steps
+
+1. **Data Retrieval and DataFrame Creation:**
+   - Successfully obtained and processed Spotify favorite songs playlist data.
+   - Created a structured DataFrame with key song attributes.
+   - Implemented preprocessing to handle empty values, ensuring data integrity.
+
+2. **Weather API Integration:**
+   - Utilized OpenWeatherMap API to retrieve real-time weather conditions.
+   - Visualized weather features through bar graphs, providing an easy-to-understand overview.
+   - Enhanced geographical understanding with a weather map generated using folium.
+
+3. **Algorithm Development:**
+   - Formulated an algorithm summing dance, energy, and happiness values.
+   - Implemented dynamic song selection based on temperature conditions, catering to varied weather preferences.
+   - Displayed track numbers for each temperature type, facilitating user exploration.
+
+4. **Extreme Condition Filtering:**
+   - Implemented filtering based on cloudiness and humidity, refining song choices for extreme conditions.
+   - Visualized extreme condition checks to enhance transparency and user understanding.
+
+## Findings
+
+- Identified potential limitations, including the reliance on Spotify playlist data and weather API accuracy.
+- Recognized the sensitivity of the algorithm to external factors like sudden weather changes.
+- Acknowledged the need for future improvements, such as diversifying data sources and incorporating user feedback.
+
 
 ## Limitations
 
