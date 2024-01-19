@@ -81,5 +81,21 @@ This Python program, dubbed **Spotify Weather-Based Music Recommender**, is the 
 2. Run the program: `CS210_TERM_PROJECT.ipynb`.
 3. Follow the prompts to explore weather-based song recommendations.
 
+### More information can be found in the presentaion pdf that is uploaded in this repistory.
+
+## Prerequisites
+
+Before running the analysis, make sure you have the following dependencies installed:
+
+Python
+Pandas
+Matplotlib
+Counter
+Reguests
+json
+os
+folium
+
+
 
 
