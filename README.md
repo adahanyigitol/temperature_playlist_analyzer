@@ -61,7 +61,7 @@ This Python program, dubbed **Spotify Weather-Based Music Recommender**, is your
 
 - Identified potential limitations, including the reliance on Spotify playlist data and weather API accuracy.
 - Recognized the sensitivity of the algorithm to external factors like sudden weather changes.
-- Acknowledged the need for future improvements, such as diversifying data sources and incorporating user feedback.
+- Modified song recommendations for extreme conditions of the weather depended on humidity and cloudiness percentages besides the temperature value.
 
 
 ## Limitations
