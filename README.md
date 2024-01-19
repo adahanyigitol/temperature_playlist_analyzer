@@ -50,7 +50,7 @@ This Python program, dubbed **Spotify Weather-Based Music Recommender**, is your
 ## How to Use
 
 1. Install necessary dependencies: `pip install pandas matplotlib folium`.
-2. Run the program: `python main.py`.
+2. Run the program: `CS210_TERM_PROJECT.ipynb`.
 3. Follow the prompts to explore weather-based song recommendations.
 
 
