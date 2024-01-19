@@ -87,14 +87,14 @@ This Python program, dubbed **Spotify Weather-Based Music Recommender**, is the 
 
 Before running the analysis, make sure you have the following dependencies installed:
 
-Python
-Pandas
-Matplotlib
-Counter
-Reguests
-json
-os
-folium
+- Python
+- Pandas
+- Matplotlib
+- Counter
+- Reguests
+- json
+- os
+- folium
 
 
 
